@@ -1,0 +1,6 @@
+[
+  {"code": "CS101", "credits": 4.0, "grade": "A", "semester": "Winter 2018"},
+  {"code": "MATH110", "credits": 4.0, "grade": "B+", "semester": "Winter 2018"},
+  {"code": "ENG102", "credits": 3.0, "grade": "A-", "semester": "Winter 2018"},
+  {"code": "HIST105", "credits": 3.0, "grade": "B", "semester": "Winter 2018"}
+]
