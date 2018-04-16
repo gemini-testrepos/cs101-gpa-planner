@@ -1,6 +1,13 @@
 # CS101 GPA Planner
 
-A simple Python CLI tool to track semester courses and calculate GPA.
+A lightweight Python CLI built during Winter 2018 to calculate semester/cumulative GPA and determine the average grade needed to hit a target GPA.
 
-## Status
-Work in progress for Winter 2018 CS101.
+## Usage
+```bash
+python3 cli.py sample_transcript.json --target 3.7 --next-credits 15
+```
+
+## Tests
+```bash
+python3 -m unittest test_gpa_planner.py
+```
